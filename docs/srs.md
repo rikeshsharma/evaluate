@@ -5,7 +5,8 @@ version 0.0.1
 
 prepared by \
 Rikesh Sharma \
-Apuroop Sigilipalli
+Apuroop Sigilipalli \
+Ajay Dama
 
 date: 29/04/2024
 
@@ -45,6 +46,7 @@ date: 29/04/2024
 |:-------------:|:-------------:|:--------------------:|:-----------:|
 | Rikesh        |               |                      |             |
 | Apuroop       |               |                      |             |
+| Ajay          |               |                      |             |
 
 ## Introduction
 
