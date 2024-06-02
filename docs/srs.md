@@ -52,7 +52,7 @@ date: 29/04/2024
 
 ### Purpose
 
-Internet is a vast source of information. We read articles, watch online tutorial like on youtube and explore the discussions. However there is a no way to evaluate our understanding of the material that we went through. This may lead to superficial/wrong understanding of the material. This project aims to build a tool to assist online learning and provide several ways to test user's understanding of the study material that he studied online be it textual or videos like on youtube.
+The software aims to enhance online learning by providing a tool to evaluate users' comprehension of various materials, including articles, video tutorials, and discussion forums. By offering multiple methods to assess understanding, this tool helps prevent superficial or incorrect interpretations of the content studied online.
 
 ### Document Convention
 
@@ -60,11 +60,11 @@ Follows standard markdown conventions.
 
 ### Intended Audience and Reading suggestions
 
-This document is intended to read by developers, project managers, testers and documentation writers. The rest of the document contains the product description, functional and non-functional requirements, use cases and contraints. Each section of the document can be read independently.
+This document is intended for developers, project managers, testers, and documentation writers. It includes the product description, functional and non-functional requirements, use cases, and constraints. Each section can be read independently, providing a comprehensive guide for understanding and implementing the software.
 
 ### Product Scope
 
-This product aims to assist research and online learning by providing tool like online note-taking on the go with embedded note taker with the web page. It aims to provide questions on the material that user studied to evalute their understanding and guide them what did not understand hence increasing their depth of understanding and retain their learning. This product aims to utilise AI to assist user's learning.
+This product is designed to enhance research and online learning by offering tools such as an embedded online note-taking feature within web pages. It also aims to evaluate users' understanding by providing questions on the material they have studied, helping to identify areas of misunderstanding and thereby deepening their comprehension and retention. It aims to provide wide range of accessibility tools that makes online learning easier and less stressful. Additionally, the product will leverage AI to assist users in their learning process.
 
 ### References
 
@@ -74,7 +74,11 @@ TODO
 
 ### Product Perspective
 
-This product has dual nature. To assist user in their online learning and research product should be a companion always present with user while they surf the internet and learns. Therefore we aim to provide a browser extension. This browser extension will have features that will assist user to read large articles with less fatigue. It will allow users to take notes on the fly with feature reach note-taking tools at their side. We also aim to provide AI powered note-taking enhancement so user can focus more on learning than worrying. The second nature of this product is a website. Often after learning online their are no means to test what you learn. Internet is filled with alot of information but less to test you that you grasped them. The website will provide questions generated on fly on the basis of articles, youtube videos that one went through, so for example let's say you just watched a youtube video on "First laws of thermodynamics" but you may forget the concepts, to make your understanding better we will generate questions based on the concepts that you just learned, you may try to answer them on the website. This product is your friend that helps you learn and a teacher that test what you learn and guide you in areas of improvement.
+This product serves a dual purpose: it assists users in their online learning and research. To be a constant companion during internet browsing, we are developing a browser extension. This extension will feature tools to help users read large articles with less fatigue and allow for on-the-fly note-taking with feature-rich tools. Additionally, we aim to incorporate AI-powered enhancements to streamline the note-taking process, enabling users to focus more on learning.
+
+The second aspect of this product is a dedicated website. Often, there are limited means to test the knowledge acquired from online learning. While the internet is a vast source of information, it lacks tools for assessing comprehension. Our website will generate questions in real-time based on the articles and YouTube videos users have engaged with. For instance, after watching a YouTube video on "The First Law of Thermodynamics," users may forget certain concepts. Our platform will create questions based on the content to reinforce understanding, allowing users to answer these questions and identify areas for improvement.
+
+This product acts as both a learning companion and a teacher, helping users enhance their knowledge and test their understanding, guiding them towards better retention and deeper comprehension.
 
 TODO Diagrams
 
